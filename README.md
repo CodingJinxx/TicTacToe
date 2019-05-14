@@ -1,6 +1,6 @@
 # TicTacToe
-<img src="Screenshot.png" alt="screenshot of game" width="200" height="200"></img></br>
 TicTacToe made in Godot engine with GDScript using Pixelart created using Aseprite
+<img src="Screenshot.png" alt="screenshot of game" width="200" height="200"></img></br>
 
 ## What I Learned
 * How to use a new Engine

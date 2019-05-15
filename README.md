@@ -8,6 +8,6 @@ TicTacToe made in Godot engine with GDScript using Pixelart created using Asepri
   * Using Tilemaps to build the Scene
   * Accessing and manipulating Nodes and Scenes from Code
   * Importing and playing Sounds from Code
-  * Working Node Signals
+  * Working with Node Signals
 * Learning to use a High Level Language similiar to Python
 * Creating Pixelart using Aseprite
